@@ -93,17 +93,9 @@ projects:
 
     projects:
       - project:
-        title: Czech driving licence theory learning iOS app
-        link: "https://itunes.apple.com/cz/app/auto%C5%A1kola-2018-cz-etesty/id1015824323?mt=8"
-        tagline: "iOS app that helps users learn theory for czech driving licence test. Main advantage over other apps is that it has custom web backend for editing test questions. This backend exposes API that allows app users to patch or update test questions immediately after new test question database is released without need to release new app version in app store with every small change or typo fix in test questions."
-      - project:
-        title: Slovak driving licence theory learning iOS app
-        link: "https://itunes.apple.com/cz/app/auto%C5%A1kola-2018-sk-vodi%C4%8D%C3%A1k/id1137590625?mt=8"
-        tagline: "iOS app that helps users learn theory for slovak driving licence test. Almost the same features as czech driving licence app, but with modifications tailored for slovak audience and legislation."
-      - project:
-        title: Czech gun licence theory learning iOS app
-        link: "https://itunes.apple.com/cz/app/zbrojn%C3%AD-pr%C5%AFkaz/id1103623494?mt=8"
-        tagline: "iOS app that helps users learn theory for czech gun licence test. Almost the same features as czech driving licence app, but with modifications tailored for gun legislation."
+        title: Theory learning iOS apps
+        link: "https://testy.cloud"
+        tagline: "iOS apps that helps users learn theory for for various licences. Main advantage over other apps is that it has custom web backend for editing test questions. This backend exposes API that allows app users to patch or update test questions immediately after new test question database is released without need to release new app version in app store with every small change or typo fix in test questions."
       - project:
         title: Custom law firm CRM
         link: "#"
