@@ -36,38 +36,12 @@ sidebar:
         - interest:
           item: Electronic hardware
           link:
-#        - interest:
-#          item: Cooking
-#          link:
-
-
-
 
 
 
 career-profile:
     title: Career Profile
     text: I love to build software, which can take many forms. Ranging from simple utilities, web applications to native iOS applications. I enjoy writing software that automates routine tasks, saving time, money and energy of humans.
-
-
-#studies:
-#    - education:
-#      degree: MSc in Computer Science
-#      university: University of London
-#      time: 2011 - 2012
-#      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-#      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-#      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#      pellentesque eu, pretium quis, sem."
-#
-#    - education:
-#      degree: BSc in Applied Mathematics
-#      university: Bristol University
-#      time: 2007 - 2011
-#      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-#      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-#      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#      pellentesque eu, pretium quis, sem."
 
 
 
@@ -100,46 +74,6 @@ projects:
         title: Custom law firm CRM
         link: "#"
         tagline: "Tailored web app that aims to simplify process of creating, managing and closing real-estate transactions. It allows clients to monitor their transactions, simplifies law firm's employees workflow, and automates many routine tasks that leads to closing the deals while saving time and money on either client side, or law firm side."
-
-
-
-#publications:
-#    title: Publications
-#    intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
-#
-#    publications:
-#      - paper:
-#        title: The Art of Computer Programming
-#        authors: Donald E. Knuth
-#        conference: Addison-Wesley, 1968
-#      - paper:
-#        title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-#      - paper:
-#        title: A syntax directed compiler for Algol 60
-#        authors: Edgar T. Irons
-#        conference: "Comm. ACM 4 (1961), 51–55"
-
-
-skills:
-    title: Skills &amp; Proficiency
-    skills:
-        - skill:
-          name: Swift
-          level: 90%
-        - skill:
-          name: PHP, MySQL
-          level: 85%
-        - skill:
-          name: Git
-          level: 85%
-        - skill:
-          name: Docker, Sketch & Photoshop
-          level: 60%
-        - skill:
-          name: Electronic hardware design
-          level: 50%
 
 
 footer:
